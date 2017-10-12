@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: file-upload-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: User
+Implementation-Vendor-Id: io.fileapi
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/file-upload-
+ api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
