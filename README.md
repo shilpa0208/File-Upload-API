@@ -10,7 +10,7 @@ Simple RESTful web standalone application developed using Spring Boot.
  * HSQL 
  * Maven
  
-## Description
+## Description:
 File Upload API is a RESTful API in Spring Boot that is used to upload a file with a few meta data fields such as the file name, file type, file size, file path and upload date and time details. The file is saved in an in-memory database - HSQL and the content of the file is saved at the value specified in the application.properties file called upload_directory. Also, the size limit of the file can be changed at the application.properties file.
 
 This API exposes the end points using the following URI's:
