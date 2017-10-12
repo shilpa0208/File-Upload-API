@@ -6,7 +6,7 @@ Simple RESTful web standalone application developed using Spring Boot.
  * Spring Boot
  * Spring MVC
  * Spring Data JPA
- * RESTful Web Services
+ * RESTful Web Services using Jersey
  * HSQL 
  * Maven
  
